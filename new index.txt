@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset='utf-8'>
+        <title>Collin's Programming Portfolio - Main Page</title>
+    </head>
+    <body>
+<img src=csc106_banner.jpg>
+<h1>Welcome to Collin's Programming Portfolio Website</h1>
+
+
+Hello! My name is <strong>Collin Johnson</strong>. <br></br> 
+My website contains my portolio of programs 
+I have written for my CSC106 Computer Programming course at the University of Rhode Island. I created 
+this web page using the HTML programming language.  The Apps link above contains the applications I have written 
+that run on phones.  The Javascripts link above has Javascripts that I have written to be imbedded in 
+web pages.
+
+    </body>
+</html>
